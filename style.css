@@ -1,0 +1,26 @@
+h1{
+    color: orange;
+}
+button{
+    color: white;
+    background-color: blue;
+    text-decoration: dotted;
+    text-decoration: black line-through;
+    font-weight: 1000;
+}
+p{
+    background-color: black;
+    color: white;
+}
+#txt{
+    color: red;
+}
+button:hover{
+color: orange;
+}
+p::first-line{
+    color: red;
+}
+p::first-letter{
+    color: black;
+}
